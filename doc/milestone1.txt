@@ -1,0 +1,40 @@
+Pembagian Tugas
+13521055 - Muhammad Bangkit Dwi Cahyono
+ - Papan
+ - Pemain
+ - Dadu
+ - Main Program
+13521072 - Irsyad Nurwidianto Basuki
+ - Penjara
+ - Parkir Gratis
+13521081 - Bagas Aryo Seto
+ - World Tour
+ - Mekanisme Bangkrut
+13521103 - Aulia Mey Diva Annandya
+ - Lokasi
+ - Properti
+13521104 - Muhammad Zaydan Athallah
+ - Chance Card
+ - Perpajakan
+
+
+Progress
+
+COMPLETED TASKS
+- Dadu
+
+ONGOING TASKS
+- Papan
+- Pemain
+- Penjara
+- Properti
+- Lokasi
+- Chance Card
+- Perpajakan
+- Main Program
+
+UNSTARTED TASK
+- World Tour
+- Mekanisme Bangkrut
+- Parkir
+ 
